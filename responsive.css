@@ -1,0 +1,1463 @@
+/*========================= media quree for navbar_start================================ */
+
+@media screen and (min-width: 200px) and (max-width: 399px) {
+    .cover {
+        height: 610px;
+    }
+    .cover .inner_cover {
+        width: 100%;
+        height: 600px;
+        padding-top: 5px;
+    }
+    .cover .inner_cover .content {
+        padding: 10px 5px 0px 20px;
+        float: none;
+        height: 300px;
+        width: 80%;
+        margin: 10px auto;
+    }
+    .cover .inner_cover .content h3 {
+        margin-bottom: 5px;
+        font-size: 10px;
+    }
+    .cover .inner_cover .content h1 {
+        margin-bottom: 5px;
+        font-size: 21px;
+    }
+    .cover .inner_cover .content p {
+        margin-bottom: 25px;
+        font-size: 10px;
+    }
+    .cover .inner_cover .content a {
+        padding: 10px 30px;
+        border-radius: 40px;
+        font-size: 0.7rem;
+        background-color: rgb(31, 63, 68);
+    }
+    .cover .inner_cover .imag {
+        width: 80%;
+        height: 250px;
+        float: none;
+        margin: 0px auto;
+    }
+    .cover .inner_cover .imag img {
+        height: 250px;
+    }
+    .box {
+        height: 1000px;
+        padding-bottom: 30px;
+    }
+    .box .inner_box {
+        width: 95%;
+        height: 990px;
+        margin: auto;
+        padding-top: 3px;
+        position: relative;
+    }
+    .box .inner_box .box1 {
+        width: 80%;
+        height: 150px;
+        padding: 5px 20px 5px 10px;
+        margin: 10px auto;
+        display: block;
+        background-color: silver;
+    }
+    .box .inner_box .box1 h1 {
+        font-size: 18px;
+        margin: 4px 0px 5px;
+    }
+    .box .inner_box .box1 p {
+        font-size: 12px;
+    }
+    .box .inner_box .fas {
+        font-size: 20px;
+        margin-right: 8px;
+    }
+    .family {
+        height: 830px;
+        margin-bottom: 20px;
+    }
+    .family .inner_family {
+        width: 100%;
+        height: 790px;
+    }
+    .family .inner_family .right_content .small_pic {
+        height: 100px;
+        float: none;
+        width: 90%;
+        margin: 20px auto;
+    }
+    .family .inner_family .right_content .small_content {
+        width: 90%;
+        height: 130px;
+        float: none;
+        padding: 0px 0px 0px 10px;
+        margin: 20px auto 30px;
+        text-align: left;
+    }
+    .family .inner_family .right_content .small_content p {
+        font-size: 9px;
+    }
+    .family .inner_family .pic {
+        float: none;
+        width: 100%;
+        height: 200px;
+        margin: 5px auto 15px;
+        padding: 0px;
+    }
+    .family .inner_family .right_content {
+        padding: 30px 5px 0px 10px;
+        float: none;
+        width: 100%;
+        height: 560px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content h5 {
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    .family .inner_family .right_content h1 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .family .inner_family .right_content p {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .family .inner_family .right_content a {
+        padding: 10px 20px;
+        margin-left: 20px;
+        font-size: 13px;
+    }
+    .popular-banner .inner_popular-banner {
+        width: 98%;
+        margin: 5px auto;
+    }
+    .popular-banner .inner_popular-banner h1 {
+        font-size: 26px;
+    }
+    .popular {
+        height: 1050px;
+    }
+    .popular .inner_popular {
+        width: 100%;
+        height: 1020px;
+        padding-top: 3px;
+    }
+    .popular .inner_popular .box2 {
+        width: 80%;
+        height: 300px;
+        display: block;
+        padding: 0px 0px;
+        margin: 20px auto;
+    }
+    .popular .inner_popular .box2 figure img {
+        width: 100%;
+        height: 120px;
+    }
+    .popular .inner_popular .box2 figure figcaption h1 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    .popular .inner_popular .box2 figure figcaption p {
+        margin-bottom: 30px;
+        font-size: 9px;
+    }
+    .popular .inner_popular .box2 figure figcaption a {
+        font-size: 8px;
+        padding: 8px 30px;
+    }
+    .family2 {
+        height: 1050px;
+        margin-bottom: 20px;
+    }
+    .family2 .inner_family2 {
+        width: 100%;
+        height: 1000px;
+    }
+    .family2 .inner_family2 .right_content2 h5 {
+        font-size: 13px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .family2 .inner_family2 .right_content2 .small_content2 {
+        padding: 0px 0px 0px 15px;
+        margin-bottom: 30px;
+    }
+    .family2 .inner_family2 .right_content2 .small_content2 p {
+        font-size: 9.5px;
+    }
+    .family2 .inner_family2 .form {
+        float: none;
+        width: 90%;
+        height: 500px;
+        margin: 30px auto;
+    }
+    .family2 .inner_family2 .form .form_data form a {
+        padding: 13px 50px;
+    }
+    .family2 .inner_family2 .form .form_data form input {
+        width: 95%;
+        font-size: 11px;
+    }
+    .family2 .inner_family2 .right_content2 {
+        padding: 5px 5px 0px 10px;
+        float: none;
+        width: 90%;
+        height: 420px;
+        margin: 10px auto;
+    }
+    .family2 .inner_family2 .right_content2 h5 {
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .family2 .inner_family2 .right_content2 a {
+        padding: 12px 30px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        margin-bottom: 5px;
+        font-size: 19px;
+    }
+    .family2 .inner_family2 .right_content2 p {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .teachers {
+        height: 1270px;
+    }
+    .teachers .inner_teachers {
+        width: 100%;
+        height: 1250px;
+    }
+    .teachers .inner_teachers .box1 {
+        float: none;
+        display: block;
+        width: 100%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .teachers .inner_teachers .box1 figure {
+        padding-top: 5px;
+    }
+    .teachers .inner_teachers .box1 figure img {
+        width: 180px;
+        height: 180px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption {
+        display: none;
+    }
+    .teachers .inner_teachers .box1 figure figcaption .fab {
+        font-size: 18px;
+    }
+    section {
+        height: 1370px;
+    }
+    section .inner_section {
+        width: 100%;
+        height: 1250px;
+    }
+    section .boxes {
+        width: 100%;
+        height: 300px;
+        margin: 5px auto;
+    }
+    section .boxes a h1 {
+        font-size: 28px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    section .boxes p .fab {
+        font-size: 28px;
+        margin: 0px 8px;
+        color: grey;
+    }
+    section .boxes p .fas {
+        font-size: 20px;
+        margin: 0px 2px;
+        color: grey;
+    }
+    section #A {
+        float: none;
+        width: 90%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 20px 5px;
+    }
+    section #A h4 {
+        font-size: 13px;
+    }
+    section #A .fab {
+        font-size: 20px;
+        margin: 0px 5px;
+    }
+    section #B {
+        float: none;
+        width: 90%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 10px;
+    }
+    section #B ul li .fas {
+        margin-right: 12px;
+        font-size: 20px;
+    }
+    section #B h3 {
+        font-size: 13px;
+    }
+    section #B p {
+        font-size: 13px;
+        margin: 2px 0px 30px;
+    }
+    section #B h1 {
+        margin-bottom: 10px;
+        font-size: 28px;
+    }
+    section #C h1 {
+        margin-bottom: 20px;
+        font-size: 28px;
+    }
+    section #C ul li {
+        margin-top: 5px;
+    }
+    section #C ul li a {
+        text-decoration: none;
+        color: white;
+        text-transform: capitalize;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    section #C {
+        float: none;
+        width: 90%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 10px;
+    }
+    section #D h1 {
+        margin-bottom: 20px;
+        font-size: 35px;
+    }
+    section #D {
+        float: none;
+        width: 90%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 10px;
+    }
+    section #D form a {
+        text-decoration: none;
+        background-color: #138496;
+        color: white;
+        padding: 10px 30px;
+        border-radius: 30px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    section footer .inner_footer {
+        width: 100%;
+        padding: 30px 0px 0px 0px;
+    }
+    section footer .inner_footer a {
+        font-size: 12px;
+    }
+    section footer .inner_footer {
+        font-size: 10px;
+    }
+    main {
+        padding: 10px 0px;
+    }
+    main .inner_main {
+        width: 98%;
+        margin: 100px 0px;
+    }
+    main .inner_main h1 {
+        font-size: 45px;
+    }
+    main .inner_main p {
+        font-size: 15px;
+    }
+    .gallery {
+        height: 1730px;
+    }
+    .gallery .inner_gallery {
+        width: 100%;
+        height: 1680px;
+        padding-bottom: 730px;
+    }
+    .gallery .inner_gallery .container {
+        width: 80%;
+        height: 26%;
+        float: none;
+        margin: 20px auto;
+    }
+    .contact {
+        height: 1030px;
+        margin-top: 100px;
+    }
+    .contact .inner_contact {
+        width: 100%;
+        height: auto;
+    }
+    .contact .inner_contact .form_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+    .contact .inner_contact .adress_side {
+        width: 100%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+    .contact .inner_contact .adress_side h3 {
+        font-size: 20px;
+    }
+    .contact .inner_contact .adress_side p {
+        font-size: 13px;
+    }
+    .contact .inner_contact .adress_side dd p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 400px) and (max-width: 599px) {
+    .cover .inner_cover {
+        width: 380px;
+        height: 100%;
+        padding-top: 5px;
+    }
+    .cover .inner_cover .content {
+        padding: 10px 20px 0px;
+        float: none;
+        height: 48%;
+        width: 70%;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .cover .inner_cover .content h3 {
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+    .cover .inner_cover .content h1 {
+        margin-bottom: 5px;
+        font-size: 30px;
+    }
+    .cover .inner_cover .content p {
+        margin-bottom: 35px;
+        font-size: 13px;
+    }
+    .cover .inner_cover .content a {
+        padding: 12px 30px;
+        border-radius: 40px;
+        font-size: 1.2rem;
+        background-color: rgb(31, 63, 68);
+    }
+    .cover .inner_cover .imag {
+        width: 70%;
+        height: 100%;
+        float: none;
+        height: 48%;
+        margin: 0px auto;
+    }
+    .box {
+        height: 890px;
+        padding-bottom: 30px;
+    }
+    .box .inner_box {
+        width: 370px;
+        height: 100%;
+        margin: auto;
+        padding-top: 3px;
+        position: relative;
+    }
+    .box .inner_box .box1 {
+        width: 80%;
+        height: 15%;
+        padding: 15px 30px 0px 20px;
+        margin: 10px auto;
+        display: block;
+        background-color: silver;
+    }
+    .box .inner_box .box1 h1 {
+        font-size: 20px;
+    }
+    .box .inner_box .fas {
+        font-size: 25px;
+    }
+    .family {
+        height: 1000px;
+        margin-bottom: 20px;
+    }
+    .family .inner_family {
+        width: 370px;
+        height: 940px;
+    }
+    .family .inner_family .right_content .small_pic {
+        height: 120px;
+        margin-bottom: 50px;
+    }
+    .family .inner_family .right_content .small_content {
+        padding: 0px 0px 0px 10px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .family .inner_family .right_content .small_content p {
+        font-size: 9px;
+        margin-bottom: 10px;
+    }
+    .family .inner_family .pic {
+        float: none;
+        width: 80%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content {
+        padding: 10px 5px 0px 50px;
+        float: none;
+        width: 90%;
+        height: 500px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content h5 {
+        margin-bottom: 15px;
+    }
+    .family .inner_family .right_content h1 {
+        margin-bottom: 15px;
+        font-size: 27px;
+    }
+    .family .inner_family .right_content p {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .popular {
+        height: 1170px;
+    }
+    .popular .inner_popular {
+        width: 370px;
+        height: 1150px;
+        padding-top: 3px;
+    }
+    .popular .inner_popular .box2 {
+        width: 80%;
+        height: 350px;
+        display: block;
+        padding: 0px 0px;
+        margin: 20px auto;
+    }
+    .popular .inner_popular .box2 figure img {
+        width: 100%;
+        height: 170px;
+    }
+    .popular .inner_popular .box2 figure figcaption h1 {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    .popular .inner_popular .box2 figure figcaption p {
+        margin-bottom: 40px;
+        font-size: 12px;
+    }
+    .popular .inner_popular .box2 figure figcaption a {
+        font-size: 10px;
+        padding: 8px 30px;
+    }
+    .family2 {
+        height: 1050px;
+        margin-bottom: 20px;
+    }
+    .family2 .inner_family2 {
+        width: 370px;
+        height: 1000px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .family2 .inner_family2 .right_content2 .small_content2 {
+        padding: 0px 0px 0px 20px;
+        margin-bottom: 50px;
+    }
+    .family2 .inner_family2 .form {
+        float: none;
+        width: 100%;
+        height: 500px;
+        margin: 30px auto;
+    }
+    .family2 .inner_family2 .form .form_data form a {
+        padding: 15px 90px;
+    }
+    .family2 .inner_family2 .right_content2 {
+        padding: 10px 5px 0px 10px;
+        float: none;
+        width: 90%;
+        height: 420px;
+        margin: 10px auto;
+    }
+    .family2 .inner_family2 .right_content2 a {
+        padding: 13px 40px;
+    }
+    .family2 .inner_family2 .right_content2 h5 {
+        margin-bottom: 5px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        margin-bottom: 5px;
+    }
+    .teachers {
+        height: 1270px;
+    }
+    .teachers .inner_teachers {
+        width: 370px;
+        height: 1250px;
+    }
+    .teachers .inner_teachers .box1 {
+        float: none;
+        display: block;
+        width: 80%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .teachers .inner_teachers .box1 figure {
+        padding-top: 5px;
+    }
+    .teachers .inner_teachers .box1 figure img {
+        width: 200px;
+        height: 200px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption {
+        display: none;
+    }
+    .teachers .inner_teachers .box1 figure figcaption .fab {
+        font-size: 18px;
+    }
+    section {
+        height: 1370px;
+    }
+    section .inner_section {
+        width: 370px;
+        height: 1250px;
+    }
+    section .boxes {
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 60px 20px 0px 20px;
+    }
+    section .boxes a h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    section .boxes p .fab {
+        font-size: 30px;
+        margin: 0px 10px;
+        color: grey;
+    }
+    section .boxes p .fas {
+        font-size: 30px;
+        margin: 0px 10px;
+        color: grey;
+    }
+    section #A {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 20px 40px;
+    }
+    section #B {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 40px;
+    }
+    section #B h1 {
+        margin-bottom: 20px;
+        font-size: 38px;
+    }
+    section #C h1 {
+        margin-bottom: 20px;
+        font-size: 28px;
+    }
+    section #C ul li {
+        margin-top: 5px;
+    }
+    section #C ul li a {
+        text-decoration: none;
+        color: white;
+        text-transform: capitalize;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    section #C {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #D h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #D {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 30px;
+    }
+    section #D form a {
+        text-decoration: none;
+        background-color: #138496;
+        color: white;
+        padding: 20px 60px;
+        border-radius: 30px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    section footer .inner_footer {
+        width: 370px;
+        padding: 30px 0px 0px 0px;
+    }
+    section footer .inner_footer a {
+        font-size: 14px;
+    }
+    section footer .inner_footer {
+        font-size: 12px;
+    }
+    .gallery {
+        height: 1730px;
+    }
+    .gallery .inner_gallery {
+        width: 370px;
+        height: 1680px;
+        padding-bottom: 830px;
+    }
+    .gallery .inner_gallery .container {
+        width: 60%;
+        height: 30%;
+        float: none;
+        margin: 20px auto;
+    }
+    .contact {
+        height: 1030px;
+    }
+    .contact .inner_contact {
+        width: 370px;
+        height: auto;
+    }
+    .contact .inner_contact .form_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+    .contact .inner_contact .adress_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px) {
+    .cover .inner_cover {
+        width: 590px;
+        height: 100%;
+        padding-top: 5px;
+    }
+    .cover .inner_cover .content {
+        padding: 10px 20px 0px;
+        float: none;
+        height: 48%;
+        width: 70%;
+        margin: 10px auto;
+    }
+    .cover .inner_cover .content h3 {
+        margin-bottom: 8px;
+        font-size: 20px;
+    }
+    .cover .inner_cover .content h1 {
+        margin-bottom: 10px;
+        font-size: 35px;
+    }
+    .cover .inner_cover .content p {
+        margin-bottom: 35px;
+        font-size: 13px;
+    }
+    .cover .inner_cover .content a {
+        padding: 15px 35px;
+        border-radius: 40px;
+        font-size: 1.2rem;
+        background-color: rgb(31, 63, 68);
+    }
+    .cover .inner_cover .imag {
+        width: 70%;
+        height: 100%;
+        float: none;
+        height: 48%;
+        margin: 0px auto;
+    }
+    .box {
+        height: 690px;
+    }
+    .box .inner_box {
+        width: 565px;
+        height: 95%;
+        margin: auto;
+        position: relative;
+    }
+    .box .inner_box .box1 {
+        width: 47%;
+        height: 30%;
+        padding: 30px 30px 0px 20px;
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-bottom: 0px;
+        display: inline-block;
+        background-color: silver;
+    }
+    .box .inner_box .box1 h1 {
+        font-size: 17px;
+    }
+    .box .inner_box .fas {
+        font-size: 25px;
+    }
+    .family {
+        height: 900px;
+        margin-bottom: 20px;
+    }
+    .family .inner_family {
+        width: 570px;
+        height: 840px;
+    }
+    .family .inner_family .right_content .small_pic {
+        height: 150px;
+        margin-bottom: 50px;
+    }
+    .family .inner_family .right_content .small_content {
+        padding: 0px 0px 0px 20px;
+        margin-bottom: 50px;
+    }
+    .family .inner_family .pic {
+        float: none;
+        width: 60%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content {
+        padding: 10px 5px 0px 50px;
+        float: none;
+        width: 90%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content h5 {
+        margin-bottom: 5px;
+    }
+    .family .inner_family .right_content h1 {
+        margin-bottom: 5px;
+    }
+    .popular {
+        height: 1350px;
+    }
+    .popular .inner_popular {
+        width: 570px;
+        height: 1320px;
+        padding-top: 3px;
+    }
+    .popular .inner_popular .box2 {
+        width: 50%;
+        height: 400px;
+        display: block;
+        padding: 0px 0px;
+        margin: 20px auto;
+    }
+    .popular .inner_popular .box2 figure img {
+        width: 100%;
+        height: 190px;
+    }
+    .popular .inner_popular .box2 figure figcaption h1 {
+        margin-bottom: 10px;
+    }
+    .popular .inner_popular .box2 figure figcaption p {
+        margin-bottom: 40px;
+        font-size: 12px;
+    }
+    .popular .inner_popular .box2 figure figcaption a {
+        padding: 10px 30px;
+    }
+    .family2 {
+        height: 1050px;
+        margin-bottom: 20px;
+    }
+    .family2 .inner_family2 {
+        width: 570px;
+        height: 1000px;
+    }
+    .family2 .inner_family2 .right_content2 .small_content2 {
+        padding: 0px 0px 0px 20px;
+        margin-bottom: 50px;
+    }
+    .family2 .inner_family2 .form {
+        float: none;
+        width: 90%;
+        height: 500px;
+        margin: 30px auto;
+    }
+    .family2 .inner_family2 .form .form_data form a {
+        padding: 25px 160px;
+    }
+    .family2 .inner_family2 .right_content2 {
+        padding: 10px 5px 0px 50px;
+        float: none;
+        width: 90%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family2 .inner_family2 .right_content2 h5 {
+        margin-bottom: 5px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        margin-bottom: 5px;
+    }
+    .teachers {
+        height: 1270px;
+    }
+    .teachers .inner_teachers {
+        width: 570px;
+        height: 1250px;
+    }
+    .teachers .inner_teachers .box1 {
+        float: none;
+        display: block;
+        width: 60%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .teachers .inner_teachers .box1 figure {
+        padding-top: 5px;
+    }
+    .teachers .inner_teachers .box1 figure img {
+        width: 200px;
+        height: 200px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption {
+        top: 12%;
+        left: 35%;
+        padding: 40px 5px;
+        width: 100px;
+        height: 100px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption .fab {
+        font-size: 18px;
+    }
+    section {
+        height: 1370px;
+    }
+    section .inner_section {
+        width: 570px;
+        height: 1250px;
+    }
+    section .boxes {
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 60px 20px 0px 20px;
+    }
+    section .boxes a h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    section .boxes p .fab {
+        font-size: 30px;
+        margin: 0px 10px;
+        color: grey;
+    }
+    section #A {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #B {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #B h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #C h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #C {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #D h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #D {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #D form a {
+        text-decoration: none;
+        background-color: #138496;
+        color: white;
+        padding: 20px 80px;
+        border-radius: 30px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    section footer .inner_footer {
+        width: 570px;
+    }
+    .gallery {
+        height: 1730px;
+    }
+    .gallery .inner_gallery {
+        width: 570px;
+        /* height: auto; */
+        height: 1680px;
+        padding-bottom: 830px;
+    }
+    .gallery .inner_gallery .container {
+        width: 60%;
+        height: 30%;
+        float: none;
+        margin: 20px auto;
+    }
+    .contact {
+        height: 1050px;
+    }
+    .contact .inner_contact {
+        width: 570px;
+        height: auto;
+    }
+    .contact .inner_contact .form_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+    .contact .inner_contact .adress_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 999px) {
+    .cover .inner_cover {
+        width: 770px;
+        height: 100%;
+        padding-top: 5px;
+    }
+    .cover .inner_cover .content {
+        padding: 10px 20px 0px;
+        float: none;
+        height: 48%;
+        width: 70%;
+        margin: 10px auto;
+    }
+    .cover .inner_cover .content h3 {
+        margin-bottom: 8px;
+        font-size: 20px;
+    }
+    .cover .inner_cover .content h1 {
+        margin-bottom: 10px;
+        font-size: 35px;
+    }
+    .cover .inner_cover .content p {
+        margin-bottom: 35px;
+        font-size: 13px;
+    }
+    .cover .inner_cover .content a {
+        padding: 15px 35px;
+        border-radius: 40px;
+        font-size: 1.2rem;
+        background-color: rgb(31, 63, 68);
+    }
+    .cover .inner_cover .imag {
+        width: 70%;
+        height: 100%;
+        float: none;
+        height: 48%;
+        margin: 0px auto;
+    }
+    .box {
+        height: 730px;
+    }
+    .box .inner_box {
+        width: 770px;
+        height: 90%;
+        margin: auto;
+        position: relative;
+    }
+    .box .inner_box .box1 {
+        width: 47%;
+        height: 30%;
+        padding: 30px 30px 0px 20px;
+        margin-top: 20px;
+        margin-left: 15px;
+        margin-bottom: 0px;
+        display: inline-block;
+        background-color: silver;
+    }
+    .box .inner_box .box1 h1 {
+        font-size: 20px;
+    }
+    .box .inner_box .fas {
+        font-size: 25px;
+    }
+    .family {
+        height: 900px;
+        margin-bottom: 20px;
+    }
+    .family .inner_family {
+        width: 760px;
+        height: 840px;
+    }
+    .family .inner_family .right_content .small_pic {
+        height: 150px;
+        margin-bottom: 50px;
+    }
+    .family .inner_family .right_content .small_content {
+        padding: 0px 0px 0px 20px;
+        margin-bottom: 50px;
+    }
+    .family .inner_family .pic {
+        float: none;
+        width: 60%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content {
+        padding: 10px 5px 0px 50px;
+        float: none;
+        width: 90%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family .inner_family .right_content h5 {
+        margin-bottom: 5px;
+    }
+    .family .inner_family .right_content h1 {
+        margin-bottom: 5px;
+    }
+    .family2 {
+        height: 1050px;
+        margin-bottom: 20px;
+    }
+    .family2 .inner_family2 {
+        width: 760px;
+        height: 1000px;
+    }
+    .family2 .inner_family2 .right_content2 .small_content2 {
+        padding: 0px 0px 0px 20px;
+        margin-bottom: 50px;
+    }
+    .family2 .inner_family2 .form {
+        float: none;
+        width: 90%;
+        height: 500px;
+        margin: 30px auto;
+    }
+    .family2 .inner_family2 .form .form_data form a {
+        padding: 25px 230px;
+    }
+    .family2 .inner_family2 .right_content2 {
+        padding: 10px 5px 0px 50px;
+        float: none;
+        width: 90%;
+        height: 400px;
+        margin: 10px auto;
+    }
+    .family2 .inner_family2 .right_content2 h5 {
+        margin-bottom: 5px;
+    }
+    .family2 .inner_family2 .right_content2 h1 {
+        margin-bottom: 5px;
+    }
+    .popular .inner_popular {
+        width: 760px;
+    }
+    .popular .inner_popular .box2 {
+        width: 30%;
+        height: 470px;
+        margin-top: 50px;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+    .popular .inner_popular .box2 figure figcaption h1 {
+        font-size: 26px;
+    }
+    .popular .inner_popular .box2 figure figcaption p {
+        margin-bottom: 80px;
+    }
+    .teachers .inner_teachers {
+        width: 770px;
+    }
+    .teachers .inner_teachers .box1 figure img {
+        width: 215px;
+        height: 215px;
+    }
+    .teachers .inner_teachers .box1 {
+        margin-left: 22px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption {
+        top: 9%;
+        left: 16%;
+        padding: 40px 5px;
+        width: 150px;
+        height: 120px;
+    }
+    section {
+        height: 1370px;
+    }
+    section .inner_section {
+        width: 770px;
+        height: 1250px;
+    }
+    section .boxes {
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 60px 20px 0px 20px;
+    }
+    section .boxes a h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    section .boxes p .fab {
+        font-size: 30px;
+        margin: 0px 10px;
+        color: grey;
+    }
+    section #A {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #B {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #B h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #C h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #C {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #D h1 {
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    section #D {
+        float: none;
+        width: 80%;
+        height: 300px;
+        margin: 5px auto;
+        padding: 30px 70px;
+    }
+    section #D form a {
+        text-decoration: none;
+        background-color: #138496;
+        color: white;
+        padding: 20px 60px;
+        border-radius: 30px;
+        font-size: 14px;
+    }
+    section footer .inner_footer {
+        width: 770px;
+    }
+    .gallery .inner_gallery {
+        width: 770px;
+    }
+    .gallery .inner_gallery .container {
+        width: 30%;
+        height: 45%;
+        float: left;
+        margin-left: 23px;
+        margin-bottom: 20px;
+        margin-right: 0px;
+    }
+    .contact {
+        height: 1050px;
+    }
+    .contact .inner_contact {
+        width: 770px;
+        height: auto;
+    }
+    .contact .inner_contact .form_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+    .contact .inner_contact .adress_side {
+        width: 90%;
+        float: none;
+        height: 470px;
+        margin: 10px auto;
+    }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1199px) {
+    .cover .inner_cover {
+        width: 970px;
+    }
+    .cover .inner_cover .content {
+        padding: 90px 50px 0px;
+    }
+    .cover .inner_cover .content h3 {
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+    .cover .inner_cover .content h1 {
+        margin-bottom: 30px;
+        font-size: 40px;
+    }
+    .cover .inner_cover .content p {
+        margin-bottom: 50px;
+        font-size: 14px;
+    }
+    .cover .inner_cover .content a {
+        padding: 25px 60px;
+        border-radius: 40px;
+        font-size: 1.2rem;
+        background-color: rgb(31, 63, 68);
+    }
+    .cover .inner_cover .imag {
+        width: 48%;
+        height: 100%;
+    }
+    .box .inner_box {
+        width: 970px;
+        height: 95%;
+        margin: auto;
+        position: relative;
+    }
+    .box .inner_box .box1 {
+        width: 30%;
+        height: 40%;
+        padding: 30px 30px 0px 30px;
+        margin-top: 25px;
+        margin-left: 23px;
+        margin-bottom: 18px;
+        display: inline-block;
+        background-color: silver;
+    }
+    .box .inner_box .box1 h1 {
+        font-size: 19px;
+    }
+    .family .inner_family {
+        width: 970px;
+    }
+    .family2 .inner_family2 {
+        width: 970px;
+    }
+    .popular .inner_popular {
+        width: 970px;
+    }
+    .popular .inner_popular .box2 {
+        width: 30%;
+        height: 470px;
+        margin-top: 50px;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+    .teachers .inner_teachers {
+        width: 970px;
+    }
+    .teachers .inner_teachers .box1 figure img {
+        width: 270px;
+        height: 270px;
+    }
+    .teachers .inner_teachers .box1 figure figcaption {
+        top: 13%;
+        left: 22%;
+    }
+    section .inner_section {
+        width: 970px;
+    }
+    section .boxes {
+        padding: 60px 20px 0px 20px;
+    }
+    section .boxes a h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    section .boxes p .fab {
+        font-size: 30px;
+        margin: 0px 10px;
+        color: grey;
+    }
+    section #B ul li p {
+        font-size: 15px;
+    }
+    section #D form a {
+        text-decoration: none;
+        background-color: #138496;
+        color: white;
+        padding: 20px 80px;
+        border-radius: 30px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    section footer .inner_footer {
+        width: 970px;
+    }
+    .gallery .inner_gallery {
+        width: 970px;
+    }
+    .gallery .inner_gallery .container {
+        width: 30%;
+        height: 45%;
+        float: left;
+        margin-left: 23px;
+        margin-bottom: 20px;
+        margin-right: 0px;
+    }
+    .contact .inner_contact {
+        width: 970px;
+    }
+}
+
+
+/* 2840 */
